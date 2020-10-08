@@ -10,6 +10,10 @@
   <img align="left" alt="Manav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<a href="https://www.youtube.com/channel/UCkPYliCcg_FccJKrT0QZJgA">
+  <img align="left" alt="Manav's Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=manav014.manav014)
 
 <br />
