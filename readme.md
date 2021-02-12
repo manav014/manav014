@@ -19,6 +19,6 @@
 <br />
 
 <h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
-<p align="center">
+<p align="left">
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
 </p>
