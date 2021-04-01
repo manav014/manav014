@@ -18,7 +18,6 @@
 
 <br />
 
-<h2 align="left">Sad Day? Let's bring a Smile on your Face :wink:</h2>
 <p align="center">
 <img src='https://user-images.githubusercontent.com/36664705/91656069-7e9ef100-ea6a-11ea-87f7-ee3667b70d3f.png' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
 </p>
