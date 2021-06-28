@@ -11,20 +11,20 @@
 
 - 📝 I write articles on https://auth.geeksforgeeks.org/user/manav014/articles.
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/khushi_rauniyar">
-  <img align="left" alt="Khushi Rauniyar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/manavagarwal14">
+  <img align="left" alt="Manav Agarwal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/manav014/">
+  <img align="left" alt="Manav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/manav0l4/">
+  <img align="left" alt="Manav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/khushi-r-b779891a1/">
-  <img align="left" alt="Khuhsi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<a href="https://auth.geeksforgeeks.org/user/manav014/articles" ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="manav014"  width="22px" /></a>
 
-<a href="https://www.hackerrank.com/khu5h1"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="khu5h1"  width="22px"/></a>
-
-<a href="https://auth.geeksforgeeks.org/user/khu5h1/articles" ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="khu5h1"  width="22px" /></a>
-
-<a href="https://www.youtube.com/channel/UCmgyoK2woumitcImSMo7LBA">
-  <img align="left" alt="Khushi's Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.youtube.com/channel/UCkPYliCcg_FccJKrT0QZJgA">
+  <img align="left" alt="Manav's Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br/>
 
